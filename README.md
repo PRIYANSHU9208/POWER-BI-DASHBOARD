@@ -25,6 +25,8 @@ To view and interact with this project:
 ## 🖼️ Screenshots
 
 (https://github.com/PRIYANSHU9208/POWER-BI-DASHBOARD/blob/main/Screenshot%202025-05-04%20210454.png)
+https://github.com/PRIYANSHU9208/POWER-BI-DASHBOARD/blob/main/Screenshot%202025-05-04%20210540.png
+https://github.com/PRIYANSHU9208/POWER-BI-DASHBOARD/blob/main/Screenshot%202025-05-04%20210520.png
 
 ## 📌 Requirements
 
