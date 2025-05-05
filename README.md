@@ -24,16 +24,10 @@ To view and interact with this project:
 
 ## 🖼️ Screenshots
 
-*Add screenshots here to showcase the dashboard (optional).*
+(https://github.com/PRIYANSHU9208/POWER-BI-DASHBOARD/blob/main/Screenshot%202025-05-04%20210454.png)
 
 ## 📌 Requirements
 
 - Power BI Desktop (latest version recommended)
 
-## 📝 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to fork this repository or use parts of this dashboard for your own data analysis projects.
